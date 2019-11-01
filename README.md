@@ -10,7 +10,7 @@ $ git clone https://github.com/reyspeed/wifi
 
 $ cd wifi
 
-$ bash wifi.sh
+$ bash WIFI-WA.sh
 
 
 Peringatan
